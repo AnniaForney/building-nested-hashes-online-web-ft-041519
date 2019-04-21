@@ -8,6 +8,10 @@ def fourth_challenge
         :name of "Steven"
         :age of "30"
         :attitude of "confused" 
+   },
+        :name of "Nurse"
+        :age of "44"
+        :attitude of "worried"
    }}
 
   
